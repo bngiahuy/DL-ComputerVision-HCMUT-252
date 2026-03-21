@@ -18,10 +18,10 @@ Báo cáo này tập trung vào các kỹ thuật phân loại hình ảnh (imag
 ## 2. Phân Tích Dữ Liệu (EDA)
 Tóm tắt các đặc điểm chính của tập dữ liệu CIFAR-10 và Yahoo Answers.
 
-| Dataset | # Samples | # Classes | Resolution | Distribution |
-| :--- | :--- | :--- | :--- | :--- |
-| CIFAR-10 | 60,000 | 10 | 32x32 | Balanced |
-| Yahoo Answers | 1,4M | 10 | Text | Long-tail |
+| Dataset       | # Samples | # Classes | Resolution | Distribution |
+| :------------ | :-------- | :-------- | :--------- | :----------- |
+| CIFAR-10      | 60,000    | 10        | 32x32      | Balanced     |
+| Yahoo Answers | 1,4M      | 10        | Text       | Long-tail    |
 
 ---
 
@@ -43,10 +43,10 @@ graph LR
 ### CNN vs ViT (Vision Transformer)
 Kết quả so sánh giữa mô hình mạng nơ-ron tích chập và Transformer cho hình ảnh.
 
-| Model | Acc (%) | Loss | Params (M) | FPS |
-| :--- | :---: | :---: | :---: | :---: |
-| ResNet-18 (CNN) | 90.5 | 0.25 | 11M | 150 |
-| ViT-Base (Transformer) | 92.1 | 0.21 | 86M | 45 |
+| Model                  | Acc (%) | Loss  | Params (M) |  FPS  |
+| :--------------------- | :-----: | :---: | :--------: | :---: |
+| ResNet-18 (CNN)        |  90.5   | 0.25  |    11M     |  150  |
+| ViT-Base (Transformer) |  92.1   | 0.21  |    86M     |  45   |
 
 ### RNN/LSTM vs Transformer (NLP)
 So sánh mô hình tuần tự truyền thống và cơ chế Attention.

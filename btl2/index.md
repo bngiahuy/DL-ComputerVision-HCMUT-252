@@ -39,12 +39,12 @@ graph TD
 
 ## 4. Đánh Giá Hiệu Năng (mAP / FPS)
 
-| Model Architecture | BackBone | mAP@0.5 (%) | mAP@0.5:.95 (%) | FPS (RTX 3070) |
-| :--- | :--- | :---: | :---: | :---: |
-| YOLOv8-n (Nano) | DarkNet | 37.3 | 25.1 | 185 |
-| YOLOv10-s (Small)| - | 45.1 | 30.5 | 110 |
-| Faster R-CNN | ResNet-50 | 48.0 | 33.2 | 15 |
-| DETR | ResNet-50 | 50.1 | 35.5 | 28 |
+| Model Architecture | BackBone  | mAP@0.5 (%) | mAP@0.5:.95 (%) | FPS (RTX 3070) |
+| :----------------- | :-------- | :---------: | :-------------: | :------------: |
+| YOLOv8-n (Nano)    | DarkNet   |    37.3     |      25.1       |      185       |
+| YOLOv10-s (Small)  | -         |    45.1     |      30.5       |      110       |
+| Faster R-CNN       | ResNet-50 |    48.0     |      33.2       |       15       |
+| DETR               | ResNet-50 |    50.1     |      35.5       |       28       |
 
 ---
 
