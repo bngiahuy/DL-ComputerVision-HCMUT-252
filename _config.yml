@@ -1,0 +1,10 @@
+theme: jekyll-theme-cayman
+title: HCMUT - Deep Learning in Computer Vision
+description: Project website for CS Master Program - HCMUT
+author: Huy, Minh, Quang, Thư
+show_downloads: false
+google_analytics:
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
+- jekyll-seo-tag
