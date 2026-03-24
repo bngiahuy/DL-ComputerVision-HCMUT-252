@@ -2,6 +2,9 @@
 layout: default
 title: Báo cáo BTL1 - DL in CV
 ---
+---
+[← Quay lại](../)
+
 
 # Báo cáo Bài Tập Lớn 1
 
@@ -20,4 +23,4 @@ Báo cáo này tập trung vào các bài toán phân loại hình ảnh, chữ,
 - **Source Code:** [GitHub Repo (Placeholder)](https://github.com/bngiahuy/DL-ComputerVision-HCMUT-252)
 
 ---
-[Quay lại Trang Chủ](../)
+[← Quay lại Trang Chủ](../)
