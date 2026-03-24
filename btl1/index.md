@@ -18,9 +18,9 @@ Báo cáo này tập trung vào các bài toán phân loại hình ảnh, chữ,
 - [Mô hình đa phương thức CLIP: Zero-shot vs Few-shot](./multimodal.html)
 
 ## 3. Video Demo & Thuyết Trình
-- **Video Demo:** [Link (Placeholder)](https://youtube.com)
-- **YouTube Presentation:** [Link (Placeholder)](https://youtube.com)
-- **Source Code:** [GitHub Repo (Placeholder)](https://github.com/bngiahuy/DL-ComputerVision-HCMUT-252)
+- **Video Demo:** [Link](https://youtube.com)
+- **YouTube Presentation:** [Link](https://youtube.com)
+- **Source Code:** [GitHub Repo](https://github.com/bngiahuy/DL-ComputerVision-HCMUT-252)
 
 ---
 [← Quay lại Trang Chủ](../)
