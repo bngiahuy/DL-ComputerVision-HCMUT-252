@@ -12,9 +12,9 @@ Chào mừng đến với trang báo cáo dự án cho khóa học **Học Sâu 
 - **Nhóm**: group6
 - **Thành viên:**
 - Bùi Nguyễn Gia Huy (MSHV: 2570201)
-- Lê Ngọc Minh Thư (MSHV: ...)
-- Phạm Minh Quang (MSHV: ...)
-- Nguyễn Ngọc Minh (MSHV: ...)
+- Lê Ngọc Minh Thư (MSHV: 2570331)
+- Phạm Minh Quang (MSHV: 2570302)
+- Nguyễn Ngọc Minh (MSHV: 2570111)
 
 ## Nội Dung Báo Cáo
 
