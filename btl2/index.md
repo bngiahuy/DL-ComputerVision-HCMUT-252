@@ -47,7 +47,7 @@ Mục tiêu của báo cáo này là trình bày toàn bộ pipeline phát hiệ
 
 ## Video Demo & Thuyết Trình
 - **Video Demo:** [Link](https://youtu.be/QjHL0zFC1Gs)
-- **YouTube Presentation:** [Link](https://youtube.com)
+- **YouTube Presentation:** [Link](https://youtu.be/AnbZ-kEVD78)
 - **Source Code:** [GitHub Repo](https://github.com/bngiahuy/DL-ComputerVision-HCMUT-252/btl2)
 
 ---
