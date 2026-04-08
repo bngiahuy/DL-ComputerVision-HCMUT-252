@@ -3,7 +3,7 @@ layout: default
 title: BTL2 - Dataset, DataLoader & Augmentation
 ---
 
-[← BTL2](./) | [← Trang Chủ](../)
+[← BTL2](./)
 
 # 2. Dataset, DataLoader & Augmentation
 
@@ -98,4 +98,4 @@ Bộ dataset custom đọc XML, apply transform và trả về `(image, target)`
 </figure>
 
 ---
-[← BTL2](./) | [← Trang Chủ](../)
+[← BTL2](./) 

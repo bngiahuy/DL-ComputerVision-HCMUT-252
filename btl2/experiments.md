@@ -3,7 +3,7 @@ layout: default
 title: BTL2 - Kết quả thực nghiệm & thảo luận
 ---
 
-[← BTL2](./) | [← Trang Chủ](../)
+[← BTL2](./)
 
 # 4. Kết quả thực nghiệm: bảng số liệu, biểu đồ, phân tích
 
@@ -108,4 +108,4 @@ Phần này tổng hợp các kết quả định lượng (mAP, precision, reca
 - Bản chất VOC có nhiều object trung tâm ảnh, do đó các mô hình có prior center hoạt động tốt.
 
 ---
-[← BTL2](./) | [← Trang Chủ](../)
+[← BTL2](./)

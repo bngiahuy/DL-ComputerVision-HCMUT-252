@@ -3,7 +3,7 @@ layout: default
 title: BTL2 - Xây dựng, huấn luyện & đánh giá
 ---
 
-[← BTL2](./) | [← Trang Chủ](../)
+[← BTL2](./)
 
 # 3. Xây dựng, huấn luyện, đánh giá & so sánh
 
@@ -68,4 +68,4 @@ Phần này mô tả hai pipeline chính: **YOLOv8 Nano (Ultralytics)** và **Fa
 </div>
 
 ---
-[← BTL2](./) | [← Trang Chủ](../)
+[← BTL2](./)

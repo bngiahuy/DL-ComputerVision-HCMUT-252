@@ -5,7 +5,7 @@ title: BTL2 - Mở rộng: Tự viết train loop YOLO
 
 [← BTL2](./) | [← Trang Chủ](../)
 
-# 5. Mở rộng: Tự viết train loop YOLO (không dùng `.train()` của Ultralytics)
+# 5. Mở rộng: Tự viết train loop YOLO (không dùng của Ultralytics)
 
 Trong notebook `pascal_voc.ipynb`, nhóm triển khai **custom training loop** cho YOLOv8 nhằm kiểm soát chi tiết quá trình backprop và quan sát từng thành phần loss. Điều này giúp linh hoạt hơn khi nghiên cứu tác động của loss, optimizer và augmentation.
 
