@@ -31,8 +31,11 @@ Dưới đây là các báo cáo chi tiết cho từng giai đoạn của môn h
 
 ### [Báo Cáo Bài Tập Lớn 2 (BTL2)](./btl2/)
 *Phát hiện vật thể (Object Detection).*
-- EDA & Data Pipeline.
-- *To be continued...*
+- EDA & phân tích dữ liệu Pascal VOC 2012.
+- Chuẩn bị Dataset, DataLoader & Augmentation.
+- Xây dựng, huấn luyện, đánh giá & so sánh YOLOv8 vs Faster R-CNN.
+- Kết quả thực nghiệm: bảng số liệu, biểu đồ, thảo luận.
+- Mở rộng: tự viết train loop YOLO (không dùng hàm có sẵn của Ultralytics).
 
 ---
 © 2026 Nhóm DL-CV HCMUT.
